@@ -3,7 +3,7 @@ import Image from "next/image"
 const page = () => {
   return (
     <div>address page
-        <Image src="/images.jfif" alt="alt" width={500} height={500} />
+        <Image src="/images.jfif" alt="images.jfif" width={500} height={500} />
     </div>
   )
 }
